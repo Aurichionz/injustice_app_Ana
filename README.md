@@ -19,7 +19,9 @@ Git (opcional, para clonar e versionar)
 # Como executar o projeto:
 
 flutter clean
+
 flutter pub get
+
 flutter run -d chrome
 
 # Comandos úteis
